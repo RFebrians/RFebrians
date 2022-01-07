@@ -9,7 +9,7 @@ In this repo , you can find prototypes and examples . Especially Javascript Reac
 Let's start something great 🙌 🎉🎉
 
 
-Ah , Also visit my research playground for more example .   [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/ekikz1997)
+Ah , Also visit the research playground for more example .   [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/ekikz1997)
 
 And an Article written in indonesian   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rfebrians.medium.com/)
 
