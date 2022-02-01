@@ -1,8 +1,8 @@
 # Hi there 👋
 
-😄 You can call me anything .
+😄 You can call me Eki.
 
-📝 Currently i am a student and a front-end research development.
+📝 Currently I am a student and a front-end research development.
 
 In this repo , you can find prototypes and examples . Especially Javascript React ☕📜 and Python 🐍 . 
 
