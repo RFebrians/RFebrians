@@ -2,7 +2,7 @@
 
 😄 You can call me Eki.
 
-📝 Currently I am a student and a front-end research development.
+📝 Currently I am a student and a front-end research developer.
 
 In this repo , you can find prototypes and examples . Especially Javascript React ☕📜 and Python 🐍 . 
 
