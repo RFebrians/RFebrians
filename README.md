@@ -14,7 +14,7 @@ Ah , Also visit the research playground for more live example .
 | Type  | Live  |  | Type  | Live  |
 |:-:|---|---|---|---|
 |Webservice   | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/ekikz1997)  | |  Automated and AI Experiment  |  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/RFebrians/experimental-python-automation-and-ai)  |
-| Mobile / React Native  | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  And an article written in Indonesian | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rfebrians.medium.com/)  | 
+| Mobile / React Native  | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Object Detection Playground | [![Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/RFebrians/object-detection-playground)  | 
 
 
 
