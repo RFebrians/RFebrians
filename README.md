@@ -13,8 +13,8 @@ Ah , Also visit the research playground for more live example .
 
 | Type  | Live  |  | Type  | Live  |
 |:-:|---|---|---|---|
-|Webservice   | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/zegveld)  | |  Automated and AI Experiment  |  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/RFebrians/experimental-python-automation-and-ai)  |
-| Mobile / React Native  | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Object Detection Playground | [![Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/RFebrians/object-detection-playground)  | 
+|Web Development | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/zegveld)  | |  Automated and Scripting  |  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)](https://github.com/RFebrians/experimental-python-automation-and-ai)  |
+| React Native | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Artificial Intelegence | [![Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/RFebrians/object-detection-playground)  | 
 
 
 
