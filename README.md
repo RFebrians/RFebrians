@@ -2,14 +2,14 @@
 
 📝 I am an undergraduated student , a Jr. fullstack Engineer and AI Enthusiast .
 
-I'm learn and willing do some experiment then write about it , mostly on JavaScript and Python .
+✌️ I'm learn and willing do some experiment then write about it , mostly on JavaScript and Python .
 
 Find the research on other platform below 
 
 | Type  | Live  |  | Type  | Live  |
 |:-:|---|---|---|---|
-|Web Development | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/zegveld)  | |  ML and AI Experiment  |  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/RFebrians/object-detection-playground)  |
-| React Native | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Research Journal | [![docs](https://img.shields.io/badge/Journal-lightblue?style=for-the-badge&logo=appveyor)](https://github.com/RFebrians/object-detection-playground)  | 
+|Web Development | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/zegveld)  | |  ML and AI Experiment  |  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zegveld)  |
+| React Native | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Open Access Journal | [![docs](https://img.shields.io/badge/Journal-lightblue?style=for-the-badge&logo=appveyor)](https://github.com/RFebrians/index-journal)  | 
 
 > Thanks ~!
 
