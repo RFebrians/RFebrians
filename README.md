@@ -2,7 +2,7 @@
 
 📝 I am an undergraduated student , a Jr. fullstack Engineer and AI Enthusiast .
 
-✌️ I'm learn and willing do some experiment then write about it , mostly on JavaScript and Python .
+✌️ I learn and do some experiment then write about it , mostly on JavaScript and Python .
 
 Find the research on other platform below 
 
