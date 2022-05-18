@@ -11,8 +11,6 @@ Find the research on other platform below
 |Web Development | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/zegveld)  | |  ML and AI Experiment  |  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zegveld)  |
 | React Native | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Open Access Journal | [![docs](https://img.shields.io/badge/Journal-lightblue?style=for-the-badge&logo=appveyor)](https://github.com/RFebrians/index-journal)  | 
 
-> Thanks ~!
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFebrians&layout=compact&bg_color=DEG,0F2027,203A43,2C5364&title_color=E9CEDF&text_color=E9CEDF)
 
 
