@@ -2,7 +2,7 @@
 
 
 <!-- <div align="right" width="350"> -->
- <img alt="coding" align="right" width="210" src="https://c.tenor.com/BNMsRxRtCmkAAAAC/yay-happy.gif?raw=true">
+ <img alt="copyright tenor , pikaole" align="right" width="210" src="https://c.tenor.com/BNMsRxRtCmkAAAAC/yay-happy.gif?raw=true">
 <!-- </div> -->
 
 <h2 align="left">Hi, There 👋 </h2>
