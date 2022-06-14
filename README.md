@@ -5,11 +5,11 @@
  <img alt="copyright tenor , pikaole" align="right" width="210" src="https://c.tenor.com/BNMsRxRtCmkAAAAC/yay-happy.gif?raw=true">
 <!-- </div> -->
 
-<h2 align="left">Hi, There 👋 </h2>
+<h2 align="left">Hi there 👋 </h2>
 <h3 align="left">I am Rizki Febriansyah , a part of associated researcher and still on my process to continue the progress .</h3>
 <h3 align="left">Nice to meet you ~!</h3>
 
-# List of Project
+## List of Project
 > Visit the experiments , on corresponding platforms below
 
 | Type  | Live  |  | Type  | Live  |
@@ -17,10 +17,10 @@
 |Web Development | [![Playgorund](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/zegveld)  | |  ML and AI Experiment  |  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zegveld)  |
 | React Native | [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/@zegveld?tab=snacks) |  |  Paper Directory | [![docs](https://img.shields.io/badge/Journal-lightblue?style=for-the-badge&logo=appveyor)](https://github.com/RFebrians/index-journal)  | 
 
-# Languages
+## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFebrians&layout=compact&bg_color=DEG,0F2027,203A43,2C5364&title_color=E9CEDF&text_color=E9CEDF)
 
-# Contribution
+## Contribution
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RFebrians&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
 
 
