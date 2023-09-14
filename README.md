@@ -9,7 +9,7 @@
 <h3 align="left">I am Rizki Febriansyah , a part of associated researcher and still on my process to continue the progress .</h3>
 <h3 align="left">Nice to meet you ~!</h3>
 <p ><a href="https://lapras.com/public/DZD1FDC" target="_blank" rel="noopener noreferrer"><img alt="zegveldのLAPRASでのスコアは次の通りです: 技術力
-: 3.28 / 5.0, ビジネス力: 2.85 / 5.0, 影響力: 3.64 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.67&i=3.64&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
+: 3.28 / 5.0, ビジネス力: 2.85 / 5.0, 影響力: 3.64 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=2.85&i=3.64&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 
 
 
