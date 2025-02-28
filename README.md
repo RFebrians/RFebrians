@@ -25,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFebrians&layout=compact&bg_color=DEG,0F2027,203A43,2C5364&title_color=E9CEDF&text_color=E9CEDF)
 
 ## Contribution
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RFebrians&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=RFebrians&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C1)](https://git.io/streak-stats)
 
 
 
