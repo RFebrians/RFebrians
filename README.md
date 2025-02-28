@@ -1,4 +1,4 @@
-[![website - radkai.tech/@febriansyah.rizki](https://img.shields.io/badge/website-zegveld.me-9e4ec7)](https://radkai.tech/@febriansyah.rizki)
+[![website - radkai.tech/@febriansyah.rizki](https://img.shields.io/badge/website-portfolio-9e4ec7)](https://radkai.tech/@febriansyah.rizki)
 
 
 <!-- <div align="right" width="350"> -->
