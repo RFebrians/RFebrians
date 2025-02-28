@@ -1,4 +1,4 @@
-[![website - zegveld.me](https://img.shields.io/badge/website-zegveld.me-9e4ec7)](https://zegveld.me)
+[![website - radkai.tech/@febriansyah.rizki](https://img.shields.io/badge/website-zegveld.me-9e4ec7)](https://radkai.tech/@febriansyah.rizki)
 
 
 <!-- <div align="right" width="350"> -->
@@ -31,7 +31,7 @@
 
 
 <!-- matrix -->
-![GitHub metrics](https://metrics.lecoq.io/RFebrians)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/RFebrians) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RFebrians)   -->
 
 ### 📫 Contact & Profile
